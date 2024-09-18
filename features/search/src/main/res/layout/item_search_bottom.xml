@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.widget.Button android:id="@+id/btn_more_vacancies"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginVertical="8dp"
+    android:layout_marginHorizontal="16dp"
+    android:background="@drawable/blue_button_background"
+    tools:text="Еще 143 вакансии"
+    android:textAppearance="@style/TextAppearance.AppCompat.BaseText.ButtonText1"
+    android:textColor="@color/white" />

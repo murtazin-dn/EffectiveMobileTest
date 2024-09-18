@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EffectiveMobileTest</string>
+    <string name="title_search">Поиск</string>
+    <string name="title_favorites">Избранное</string>
+    <string name="title_responses">Отклики</string>
+    <string name="title_messages">Сообщения</string>
+    <string name="title_profile">Профиль</string>
+    <string name="title_fast_filter1">Вакансии рядом с вами</string>
+    <string name="title_fast_filter2">Поднять резюме в поиске</string>
+    <string name="title_fast_filter3">Временная работа и подработка</string>
+    <string name="title_fast_filter_button2">Поднять</string>
+    <string name="title_search_vacancies">Вакансии для вас</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_search1">Должность, ключевые слова</string>
+    <string name="title_vacancy_card_looking_1">Сейчас просматривает %1$s человек</string>
+    <string name="title_vacancy_card_looking_2">Сейчас просматривает %1$s человека</string>
+    <string name="title_vacancy_card_looking_3">Сейчас просматривает %1$s человек</string>
+    <string name="title_vacancy_count_1">%1$s вакансия</string>
+    <string name="title_vacancy_count_2">%1$s вакансии</string>
+    <string name="title_vacancy_count_3">%1$s вакансий</string>
+
+    <string name="title_vacancy_card_button">Откликнуться</string>
+    <string name="hint_search2">Должность по подходящим вакансиям</string>
+    <string name="title_search_reader_filter">По соответствию</string>
+    <string name="title_published">Опубликовано %1$s</string>
+
+</resources>
